@@ -1,0 +1,20 @@
+{
+  "name": "Unsolved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1",
+    "node-env-file": "^0.1.8"
+  }
+}
